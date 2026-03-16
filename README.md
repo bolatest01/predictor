@@ -1,5 +1,6 @@
 # predictor
 remove after read
 
-https://bolatest01.github.io/predictor/mundial2026_v4.html
+[Predictor V4]([External URL](https://bolatest01.github.io/predictor/mundial2026_v4.html))
+
 
